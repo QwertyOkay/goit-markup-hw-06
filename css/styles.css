@@ -970,6 +970,12 @@ margin-left: 0;
   fill: var(--footer-social);
 }
 
+.icon-send {
+  width: 24px;
+  height: 24px;
+  margin-left: 10px;
+}
+
 .logo-footer {
   display: block;
 }
