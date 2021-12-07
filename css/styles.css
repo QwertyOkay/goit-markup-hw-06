@@ -335,9 +335,11 @@ align-items: center;
   min-height: 30px;
   min-width: 30px;
   padding: 0;
-  background-color: var(--main-title-color);
+  background-color: transparent;
   border-radius: 50%;
   border: 1px solid rgba(0, 0, 0, 0.1);
+  fill: currentColor;
+  cursor: pointer;
 }
 
 .close:focus,
