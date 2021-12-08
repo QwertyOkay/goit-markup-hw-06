@@ -431,7 +431,6 @@ align-items: center;
   transition-property: border-color;
   transition-duration: var(--duration);
   transition-timing-function: var(--function);
-  /* color:#000000; */
 }
 
 .order-form-area::placeholder {
